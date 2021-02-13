@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/Kieran815/ConnectFour",
   "devDependencies": {
-    "gh-pages": "^3.1.0",
     "lite-server": "^2.6.1"
   }
 }
