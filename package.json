@@ -1,0 +1,25 @@
+{
+  "name": "connect_four",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kieran815/ConnectFour.git"
+  },
+  "author": "K Michael Milligan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kieran815/ConnectFour/issues"
+  },
+  "homepage": "https://github.com/Kieran815/ConnectFour",
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "lite-server": "^2.6.1"
+  }
+}
